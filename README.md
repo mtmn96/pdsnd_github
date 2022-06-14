@@ -7,7 +7,7 @@
 Post your Work on GitHub
 
 ### Description
-The project aims to allow the user to put the knowledge gained in the Intro to Version Control chapter into action.
+The project's aim is to test the knowledge gained in the Intro to Version Control chapter in the Programming for Data Science with Python course.
 
 ### Files used
 USBikeProjectFinal.py, new_york_city.csv, washington.csv, chicago.csv
